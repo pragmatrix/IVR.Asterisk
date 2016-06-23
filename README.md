@@ -1,1 +1,1 @@
-This project is an archive of probably outdated Asterisk interfaces to the IVR project. It is not  maintained anymore. It was removed from the IVR project at after commit https://github.com/pragmatrix/IVR/commit/5f2129cd29428bd0d58a97aadc0090db6f53cc90.
+This project is an archive of probably outdated Asterisk interfaces to the IVR project. It is not  maintained anymore. It was removed at 36b1c9e5dd56444df183b65668e8bf7326f2444d from the IVR project.
