@@ -1,3 +1,7 @@
 [submodule "IVR"]
 	path = IVR
 	url = https://github.com/pragmatrix/IVR.git
+[submodule "AsterNET.ARI"]
+	path = AsterNET.ARI
+	url = https://github.com/pragmatrix/AsterNET.ARI.git
+
